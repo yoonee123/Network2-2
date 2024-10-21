@@ -1,0 +1,3 @@
+﻿  ThreadTCPServer.cpp
+C:\Users\217\Desktop\TCP-IP-Socket-Prog-Book-2nd-Source\Windows\Chapter06\ThreadTCPServer\ThreadTCPServer.cpp(14,7): warning C4101: 'buf' :참조되지 않은 지역 변수입니다.
+  ThreadTCPServer.vcxproj -> C:\Users\217\Desktop\TCP-IP-Socket-Prog-Book-2nd-Source\Windows\Chapter06\ThreadTCPServer\x64\Debug\ThreadTCPServer.exe
